@@ -42,7 +42,7 @@ There are a lot of tools for migration from cloud Jira, but this one is simple a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/jira-to-bitrix-migrator.git
+   git clone https://github.com/TimurTsedik/jira_to_bitrix_migration_tool.git
    cd jira-to-bitrix-migrator
    ```
 2. **Create and activate a virtual environment**
