@@ -1,11 +1,14 @@
-import os
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Timur Tsedik
+
+
 import logging
 from functools import lru_cache
 
 from requests import Session
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from dotenv import load_dotenv
+
 
 class BitrixAPIError(Exception):
     pass

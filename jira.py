@@ -1,7 +1,8 @@
-import os
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Timur Tsedik
+
 import logging
 
-from dotenv import load_dotenv
 from requests import Session
 from requests.auth import HTTPBasicAuth
 from requests.adapters import HTTPAdapter

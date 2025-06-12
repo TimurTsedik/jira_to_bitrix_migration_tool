@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Timur Tsedik
+
 import logging
 import re
 import os
