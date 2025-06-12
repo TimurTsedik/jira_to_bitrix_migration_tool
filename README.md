@@ -1,6 +1,7 @@
 # Jira to Bitrix24 Migration Tool
 
-This Python-based utility migrates users, issues, and comments from a Jira instance to a Bitrix24 portal via webhook API.
+This Python-based utility migrates users, issues, and comments from a local Jira instance to a Bitrix24 portal via webhook API.
+There are a lot of tools for migration from cloud Jira, but this one is simple and easy to use.
 
 ---
 
