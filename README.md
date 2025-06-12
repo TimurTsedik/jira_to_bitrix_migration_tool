@@ -63,7 +63,7 @@ Create a `.env` file in the project root with the following variables:
 
 ```dotenv
 # Jira connection settings
-JIRA_URL=https://your-domain.atlassian.net
+JIRA_URL=https://jira.your-domain.com
 JIRA_USER=your-jira-username
 JIRA_TOKEN=your-jira-api-token
 MAX_RESULTS=50
