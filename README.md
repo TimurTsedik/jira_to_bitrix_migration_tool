@@ -65,7 +65,7 @@ Create a `.env` file in the project root with the following variables:
 # Jira connection settings
 JIRA_URL=https://jira.your-domain.com
 JIRA_USER=your-jira-username
-JIRA_TOKEN=your-jira-api-token
+JIRA_TOKEN=your-jira-local-password
 MAX_RESULTS=50
 
 # Bitrix24 incoming webhook URL (must end with '/')
