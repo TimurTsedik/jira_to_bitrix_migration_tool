@@ -103,8 +103,9 @@ python migrate.py --step users
 To run only the issue and comment migration step (after users are mapped):
 
 ```bash
-python migrate.py --step issues --project TTS --group 12
+python migrate.py --step issues --project XXX --group NN
 ```
+This command will migrate issues from the `XXX` project and create tasks in the `NN` workgroup.
 
 * `--project` restricts to a single Jira project key.
 * `--group` sets the Bitrix24 workgroup ID for created tasks.
